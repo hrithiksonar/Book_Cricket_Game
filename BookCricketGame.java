@@ -74,10 +74,10 @@ public class BookCricketGame
            {
                 System.out.print(p1_name+" Win Match !!\n\n");
            }
-		     else
-			  {
-				  	 System.out.print("IT'S A TIE");
-			  }
+ 	   else
+	   {
+	   	System.out.print("IT'S A TIE");
+	   }
        }
    }
 }
